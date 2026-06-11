@@ -3,7 +3,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Spambot2048-PWA/",
+  base: "/Spambot2048/",
   build: {
     sourcemap: true,
     assetsDir: "code",
