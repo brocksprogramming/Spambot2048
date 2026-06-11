@@ -1,9 +1,9 @@
 {
   "id": "/",
-  "scope": "/Spambot2048-PWA/",
+  "scope": "/Spambot2048/",
   "name": "Spambot2048",
   "display": "standalone",
-  "start_url": "/Spambot2048-PWA/",
+  "start_url": "/Spambot2048/",
   "short_name": "starter",
   "theme_color": "#E1477E",
   "description": "A runner game where your email address dodges spam — Air Mail, Dead Letter, and Snail Mail your way through the inbox.",
