@@ -17,7 +17,7 @@
   },
   "icons": [
     {
-      "src": "assets/icons/pambot_icon_512x512.png",
+      "src": "assets/icons/spambot_icon_512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
