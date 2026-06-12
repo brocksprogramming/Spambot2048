@@ -2,7 +2,7 @@
 // Caches the game for offline play
 
 const CACHE = 'spambot2048-v1';
-const ASSETS = ['/', '/index.html', '/manifest.json'];
+const ASSETS = ['/Spambot2048/', '/Spambot2048/index.html', '/Spambot2048/manifest.json'];
 import { precacheAndRoute } from 'workbox-precaching';
 
 // This placeholder is required — Workbox replaces it with your asset manifest at build time
