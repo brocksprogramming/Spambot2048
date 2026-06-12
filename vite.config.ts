@@ -13,6 +13,8 @@ export default defineConfig({
   },
   plugins: [
     VitePWA({
+      scope: "/Spambot2048/",
+      base: "/Spambot2048/",
       strategies: "injectManifest",
       injectManifest: {
         swSrc: 'public/sw.js',
