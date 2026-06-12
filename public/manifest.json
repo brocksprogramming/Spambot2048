@@ -17,19 +17,19 @@
   },
   "icons": [
     {
-      "src": "/Spambot2048/assets/icons/spambot_icon_512x512.png",
+      "src": "assets/icons/spambot_icon_512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/Spambot2048/assets/icons/spambot_icon_192x192.png",
+      "src": "assets/icons/spambot_icon_192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
   ],
   "screenshots": [
     {
-      "src": "/Spambot2048/assets/screenshots/screen.png",
+      "src": "assets/screenshots/screen.png",
       "sizes": "1617x1012",
       "type": "image/png"
     }
@@ -48,7 +48,7 @@
       "short_name": "About",
       "description": "Open the about page",
       "url": "/about",
-      "icons": [{ "src": "/Spambot2048/assets/icons/spambot_icon_192x192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "assets/icons/spambot_icon_192x192.png", "sizes": "192x192" }]
     }
   ],
   "widgets": [
@@ -60,14 +60,14 @@
       "description": "Spambot 2048 widget",
       "screenshots": [
         {
-          "src": "/Spambot2048/assets/screenshots/widget-screen.png",
+          "src": "assets/screenshots/widget-screen.png",
           "sizes": "500x500",
           "label": "Widget screenshot"
         }
       ],
       "icons": [
         {
-          "src": "/Spambot2048/assets/icons/spambot_icon_48x48.png",
+          "src": "assets/icons/spambot_icon_48x48.png",
           "sizes": "48x48"
         }
       ]
