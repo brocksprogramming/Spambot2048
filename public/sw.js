@@ -3,6 +3,10 @@
 
 const CACHE = 'spambot2048-v1';
 const ASSETS = ['/', '/index.html', '/manifest.json'];
+import { precacheAndRoute } from 'workbox-precaching';
+
+// This placeholder is required — Workbox replaces it with your asset manifest at build time
+precacheAndRoute(self.__WB_MANIFEST);
 
 self.addEventListener('install', e => {
   e.waitUntil(
