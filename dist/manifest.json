@@ -29,7 +29,7 @@
   ],
   "screenshots": [
     {
-      "src": "assets/screenshots/screen.png",
+      "src": "/Spambot2048/assets/screenshots/screen.png",
       "sizes": "1617x1012",
       "type": "image/png"
     }
@@ -48,7 +48,7 @@
       "short_name": "About",
       "description": "Open the about page",
       "url": "/about",
-      "icons": [{ "src": "spambot_icon_192x192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "/Spambot2048/assets/icons/spambot_icon_192x192.png", "sizes": "192x192" }]
     }
   ],
   "widgets": [
@@ -67,7 +67,7 @@
       ],
       "icons": [
         {
-          "src": "pambot_icon_48x48.png",
+          "src": "/Spambot2048/assets/icons/spambot_icon_48x48.png",
           "sizes": "48x48"
         }
       ]
