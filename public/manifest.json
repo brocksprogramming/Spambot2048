@@ -1,5 +1,5 @@
 {
-  "id": "/Spambot2048",
+  "id": "/",
   "scope": "/Spambot2048/",
   "name": "Spambot2048",
   "display": "standalone",
@@ -17,12 +17,12 @@
   },
   "icons": [
     {
-      "src": "spambot_icon_512x512.png",
+      "src": "/Spambot2048/assets/icons/spambot_icon_512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "spambot_icon_192x192.png",
+      "src": "/Spambot2048/assets/icons/spambot_icon_192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
@@ -60,7 +60,7 @@
       "description": "Spambot 2048 widget",
       "screenshots": [
         {
-          "src": "assets/screenshots/widget-screen.png",
+          "src": "/Spambot2048/assets/screenshots/widget-screen.png",
           "sizes": "500x500",
           "label": "Widget screenshot"
         }
